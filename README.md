@@ -1,6 +1,8 @@
 # something-good
 ###收藏夹
 -----------------------------------
+<a target="_blank" href="https://github.com/100apps/openshare">不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付。～</a>
+
 <a target="_blank" href="https://github.com/CEWendel/SWTableViewCell">侧滑cell显示更多按钮～</a>
 
 <a target="_blank" href="http://ios.jobbole.com/46799/">iOS 开发者必不可少的 75 个工具～</a>
