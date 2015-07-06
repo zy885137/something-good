@@ -1,6 +1,10 @@
 # something-good
 ###收藏夹
 -----------------------------------
+
+
+<a target="_blank" href="https://github.com/ipader/SwiftGuide/blob/master/Featured.mdSwift"> Swift 开源项目精选 ～</a>
+
 <a target="_blank" href="https://github.com/DeveloperLx/LxTabBarController">改变了原生tabbar切换tab时的生硬效果，并加入滑动切换手势 ～</a>
 
 <a target="_blank" href="https://github.com/100apps/openshare">不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付。～</a>
