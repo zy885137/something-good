@@ -3,7 +3,7 @@
 -----------------------------------
 
 
-<a target="_blank" href="https://github.com/ipader/SwiftGuide/blob/master/Featured.mdSwift"> Swift 开源项目精选 ～</a>
+<a target="_blank" href="https://github.com/ipader/SwiftGuide/blob/master/Featured.md"> Swift 开源项目精选 ～</a>
 
 <a target="_blank" href="https://github.com/DeveloperLx/LxTabBarController">改变了原生tabbar切换tab时的生硬效果，并加入滑动切换手势 ～</a>
 
