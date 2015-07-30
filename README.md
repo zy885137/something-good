@@ -1,6 +1,8 @@
 # something-good
 ###收藏夹
 -----------------------------------
+<a target="_blank" href="https://github.com/danielgindi/ios-charts">（带动画效果的图表控件[可爱]，比较适合对数据展现要求较高的情况ios-charts）～</a>
+
 <a target="_blank" href="https://github.com/cjwirth/awesome-ios-ui">（UI效果资源库）～</a>
 
 <a target="_blank" href="https://github.com/ipader/SwiftGuide/blob/master/Featured.md"> Swift 开源项目精选 ～</a>
