@@ -1,6 +1,9 @@
 # something-good
 ###收藏夹
 -----------------------------------
+
+<a target="_blank" href="https://github.com/SergioChan/SCTableViewCell">（类似 系统邮件左划删除 左划操作）～</a>
+
 <a target="_blank" href="https://github.com/danielgindi/ios-charts">（带动画效果的图表控件[可爱]，比较适合对数据展现要求较高的情况ios-charts）～</a>
 
 <a target="_blank" href="https://github.com/cjwirth/awesome-ios-ui">（UI效果资源库）～</a>
